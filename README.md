@@ -1,13 +1,20 @@
 # Project info
 
 Framework: Vue3
+
 State management: Pinia
+
 Http library: Axios
+
 Chart library: chart.js
+
 Unit tests: Jest
+
 Development Server: Vite
 
+
 Css pattern: Css modules
+
 Css methodology: BEM
 
 ## Project setup
