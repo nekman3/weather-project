@@ -1,0 +1,9 @@
+.weatherReport {
+  display: grid;
+  grid-template-columns: minmax(0, 767px);
+  justify-content: center;
+
+  @media (min-width: 768px) {
+    grid-template-columns: 53%;
+  }
+}

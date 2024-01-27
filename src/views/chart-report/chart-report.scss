@@ -1,0 +1,13 @@
+.chartReport {
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 6px 8px -4px $gray-light;
+  padding: 20px;
+
+  &__label {
+    font-size: 16px;
+    font-weight: 600;
+    align-self: flex-start;
+    margin-bottom: 20px;
+  }
+}
